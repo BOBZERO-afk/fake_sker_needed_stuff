@@ -1,1 +1,2 @@
 https://raw.githubusercontent.com/thompog/d/refs/heads/main/bb7.bat
+https://www.github.com/thompog/d/releases/download/1.0.0/outzip.zip
